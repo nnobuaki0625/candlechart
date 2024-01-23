@@ -47,7 +47,9 @@ const options = {
     yaxis: {
         tooltip: {
             enabled: true
-        }
+        },
+        min: 147.932,
+        max: 148.490
     }
 }
 
